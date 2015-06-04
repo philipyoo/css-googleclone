@@ -15,4 +15,4 @@ This is an exercise mentioned in the-odin-project in the HTML/CSS section in the
 
 ### Preview of Site:
 
-[http://htmlpreview.github.io/?https://github.com/philipyoo/css-googleclone/blob/master/google_site_clone.html](google_site_clone.html)
+[google_site_clone.html](http://htmlpreview.github.io/?https://github.com/philipyoo/css-googleclone/blob/master/google_site_clone.html)
