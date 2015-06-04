@@ -11,3 +11,8 @@
 ### Summary:
 
 This is an exercise mentioned in the-odin-project in the HTML/CSS section in the Web Development course. Just like the goals state, this is a creation of a static, non-functioning Google homepage site using only HTML and CSS.
+
+
+### Preview of Site:
+
+[http://htmlpreview.github.io/?https://github.com/philipyoo/css-googleclone/blob/master/google_site_clone.html](google_site_clone.html)
